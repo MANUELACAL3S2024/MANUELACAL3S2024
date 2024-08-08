@@ -1,4 +1,12 @@
-## Hi there 👋
+## ola, bem vindo ao meu perfil  
+
+meu nome é manuela rodrigues 
+
+sou estudante da plataforma Alura 
+
+para entar em contato
+00001086279475sp@al.educacao.sp.gov.br
+
 
 <!--
 **MANUELACAL3S2024/MANUELACAL3S2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
